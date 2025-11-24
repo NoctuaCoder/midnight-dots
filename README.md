@@ -20,6 +20,9 @@
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black)](https://hyprland.org/)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](./LICENSE)
+[![Forks](https://img.shields.io/github/forks/NoctuaCoder/midnight-dots?style=for-the-badge&logo=github&color=pink&logoColor=white)](https://github.com/NoctuaCoder/midnight-dots/network/members)
+[![Issues](https://img.shields.io/github/issues/NoctuaCoder/midnight-dots?style=for-the-badge&logo=github&color=purple&logoColor=white)](https://github.com/NoctuaCoder/midnight-dots/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoctuaCoder/midnight-dots/pulls)
 
 *A cosmic collection of configuration files for Arch Linux + Hyprland*
 
@@ -237,6 +240,14 @@ sudo pacman -S pipewire pipewire-pulse wireplumber
 systemctl --user enable --now pipewire pipewire-pulse wireplumber
 ```
 
+## 🗺️ Roadmap
+
+- [ ] 🖼️ Add gallery of screenshots
+- [ ] 🛠️ Create more utility scripts
+- [ ] 🎨 Add more color schemes (Dracula, Nord)
+- [ ] 📦 Create AUR package
+- [ ] 🔧 Add setup wizard for first-time users
+
 ## 🤝 Contributing
 
 Feel free to fork and customize! If you create something cool:
@@ -255,7 +266,7 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) file.
 *Coding through the night, configuring with passion*
 
 - GitHub: [@NoctuaCoder](https://github.com/NoctuaCoder)
-- Portfolio: [noctuacoder.github.io](https://noctuacoder.github.io/Noctua-profile.html/)
+- Portfolio: [noctuacoder.github.io](https://noctuacoder.github.io/NoctuaCoder/portfolio.html)
 
 ### Inspiration
 - [r/unixporn](https://reddit.com/r/unixporn) - Rice inspiration
